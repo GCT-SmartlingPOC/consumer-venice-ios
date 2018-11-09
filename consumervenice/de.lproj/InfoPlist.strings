@@ -1,0 +1,6 @@
+"NSCalendarsUsageDescription" = "Wir verwenden den Kalender, wenn Sie eine Zahlung planen wollen.";
+"NSCameraUsageDescription" = "Verwenden Sie die Kamera, um verschiedene Aktionen in Ihrer PayPal-App noch schneller zu erledigen.";
+"NSContactsUsageDescription" = "Wir laden Ihre Kontakte sicher auf unsere Server hoch, damit Sie Ihre Freunde schneller finden und ihnen Geld senden können.";
+"NSFaceIDUsageDescription" = "Mit Face ID können Sie sich noch schneller bei PayPal einloggen.";
+"NSLocationWhenInUseUsageDescription" = "Aktivieren Sie die Ortungsdienste, um sich Orte in Ihrer Nähe anzeigen zu lassen, an denen Sie mit PayPal bezahlen können.";
+"NSPhotoLibraryUsageDescription" = "Gestalten Sie Ihr PayPal-Konto mit einem Foto persönlicher.";

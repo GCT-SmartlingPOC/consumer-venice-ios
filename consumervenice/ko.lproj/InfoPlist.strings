@@ -1,0 +1,6 @@
+"NSCalendarsUsageDescription" = "결제를 예약해야 할 때 사용합니다.";
+"NSCameraUsageDescription" = "카메라를 이용하여 PayPal 앱에서 모든 종류의 작업을 원활하게 진행할 수 있습니다.";
+"NSContactsUsageDescription" = "연락처를 PayPal 서버에 지속적으로 안전하게 업로드하므로 쉽게 연락처를 찾아서 더 빠르게 결제대금을 보내거나 요청할 수 있습니다.";
+"NSFaceIDUsageDescription" = "Face ID를 사용하여 더 빠르게 PayPal에 로그인하세요.";
+"NSLocationWhenInUseUsageDescription" = "위치 서비스를 켜면 주변에 빠르고 안전한 PayPal 결제를 받는 가맹점을 보여드립니다.";
+"NSPhotoLibraryUsageDescription" = "PayPal 계정을 사진으로 꾸며보세요.";

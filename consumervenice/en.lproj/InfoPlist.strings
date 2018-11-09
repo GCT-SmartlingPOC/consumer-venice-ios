@@ -1,0 +1,7 @@
+"NSCameraUsageDescription"              = "Use your camera to breeze through all sorts of tasks in your PayPal App.";
+"NSLocationWhenInUseUsageDescription"   = "Turn on location services so we can show you nearby places that accept fast, secure payments with PayPal.";
+"NSPhotoLibraryUsageDescription"        = "Personalize your PayPal account with a photo.";
+"NSContactsUsageDescription"            = "We will continuously and securely upload your contacts to PayPal's servers so you can find your friends easily and send or request money faster.";
+"NSCalendarsUsageDescription"           = "We'll use it when you need to schedule a payment.";
+"NSFaceIDUsageDescription"              = "Use Face ID for faster login to PayPal.";
+"NSBluetoothPeripheralUsageDescription" = "We need access to Bluetooth for in-person Payments.";

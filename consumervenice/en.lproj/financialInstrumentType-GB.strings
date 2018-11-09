@@ -1,0 +1,4 @@
+"financialInstrumentType.bank.checking" = "Current account";
+"financialInstrumentType.bank.savings" = "Current account";
+"financialInstrumentType.card.credit" = "Credit card";
+"financialInstrumentType.card.debit" = "Debit card";

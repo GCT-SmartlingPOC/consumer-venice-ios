@@ -1,0 +1,3 @@
+"financialInstrumentType.bank.checking" = "Chequing";
+"financialInstrumentType.card.credit" = "Credit card";
+"financialInstrumentType.card.debit" = "Visa Debit";

@@ -1,3 +1,5 @@
+
+"testkey.dp" = "This is a test string xxx100";
 "NSCameraUsageDescription"              = "Use your camera to breeze through all sorts of tasks in your PayPal App.";
 "NSLocationWhenInUseUsageDescription"   = "Turn on location services so we can show you nearby places that accept fast, secure payments with PayPal.";
 "NSPhotoLibraryUsageDescription"        = "Personalize your PayPal account with a photo.";
